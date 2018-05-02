@@ -1,5 +1,5 @@
 # general-principles
-Software design general principles:
+Software development guidelines - general principles:
 - Abstraction
 - Cohesion and Coupling
 - Decomposition and Modularity
