@@ -10,6 +10,7 @@
 
     <modules>
         <module>common</module>
+        <module>general-principles</module>
     </modules>
 
 </project>
