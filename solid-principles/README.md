@@ -1,5 +1,5 @@
 # solid-principles
-Software development guidelines - solid principles:
+Software development guidelines - SOLID principles:
 - Single responsibility
 - Open/closed principle
 - Liskov substitution
