@@ -5,3 +5,4 @@ Modules:
 
 - [common](/common) - Contains common resources
 - [general-principles](/general-principles) - Contains software design general principles
+- [solid-principles](/solid-principles) - Contains software design SOLID principles
