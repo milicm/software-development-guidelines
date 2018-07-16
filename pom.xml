@@ -11,6 +11,8 @@
     <modules>
         <module>common</module>
         <module>general-principles</module>
+        <module>solid-principles</module>
+        <module>design-strategies</module>
     </modules>
 
 </project>
